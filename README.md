@@ -1,23 +1,25 @@
-NLW Valoriza
-Regras
-Cadastro de usuário
+# NLW Valoriza
 
-[ x ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
+## Regras
 
-[ x ] Não é permitido cadastrar um usuário sem e-mail
+- Cadastro de usuário
 
-Cadastro de TAG
+  [ x ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
 
-[] Não é permitido cadastrar mais de uma tag com o mesmo nome
+  [ x ] Não é permitido cadastrar um usuário sem e-mail
 
-[] Não é permitido cadastrar tag sem nome
+- Cadastro de TAG
 
-[] Não é permitido o cadastro por usuários que não sejam administradores
+  [  ] Não é permitido cadastrar mais de uma tag com o mesmo nome
 
-Cadastro de elogios
+  [  ] Não é permitido cadastrar tag sem nome
 
-[] Não é permitido um usuário cadastrar um elogio para si
+  [  ] Não é permitido o cadastro por usuários que não sejam administradores
 
-[] Não é permitido cadastrar elogios para usuários inválidos
+- Cadastro de elogios
 
-[] O usuário precisa estar autenticado na aplicação
+  [  ] Não é permitido um usuário cadastrar um elogio para si
+
+  [  ] Não é permitido cadastrar elogios para usuários inválidos
+
+  [  ] O usuário precisa estar autenticado na aplicação
